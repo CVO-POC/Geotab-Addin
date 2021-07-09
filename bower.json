@@ -1,0 +1,11 @@
+{
+  "name": "motion_drive_add-in",
+  "authors": [
+    "Chris Myers <chris.myers@neudesic.com>"
+  ],
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "dialog-polyfill": "^0.5.0"
+  }
+}

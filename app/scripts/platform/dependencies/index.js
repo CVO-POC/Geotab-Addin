@@ -1,0 +1,1 @@
+export {default as MobileDevice} from './mobile-device';

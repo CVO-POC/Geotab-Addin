@@ -1,0 +1,20 @@
+{
+  "name": "PrePass MOTION",
+  "supportEmail": "jessica.mendez@prepass.com",
+  "version": "0.0.1",
+  "items": [{
+    "url": "https://mobile-resources.prepass.com/prepassmotion.html",
+    "path": "DriveAppLink/",
+    "menuName": {
+      "en": "PrePass MOTION"
+    },
+    "icon": "icon.svg"
+  }],
+  "dev": {
+    "root": "prePassMotion",
+    "dist": {
+      "host": ""
+    }
+  },
+  "onStartup": true
+}
